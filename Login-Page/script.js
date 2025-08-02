@@ -1,3 +1,3 @@
 function imgClick(){
-    document.getElementById('img').innerHTML = alert('Sorry page on running');
+    document.getElementById('img').innerHTML = alert('Sorry page on running Wait');
 }
